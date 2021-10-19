@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\obj\Debug\VoladorDesafioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\bin\Debug\VoladorDesafioInterfaces.exe.config
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\bin\Debug\VoladorDesafioInterfaces.exe
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\bin\Debug\VoladorDesafioInterfaces.pdb
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\obj\Debug\VoladorDesafioInterfaces.exe
+C:\Users\Administrador\source\repos\VoladorDesafioInterfaces\VoladorDesafioInterfaces\obj\Debug\VoladorDesafioInterfaces.pdb
